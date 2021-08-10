@@ -1,6 +1,6 @@
 package net.choco.buildbattleprostartmessage.listener;
 
-import net.choco.api.events.game.BBGameStateSwitchEvent;
+import net.choco.buildbattle.api.events.game.BBGameStateSwitchEvent;
 import net.choco.buildbattle.objects.arena.BBArena;
 import net.choco.buildbattle.objects.arena.BBArenaState;
 import net.choco.buildbattleprostartmessage.message.Message;
